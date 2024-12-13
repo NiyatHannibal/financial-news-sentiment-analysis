@@ -36,3 +36,6 @@ The dataset consists of the following columns:
 - There is a strong correlation between positive sentiment in news headlines and an increase in stock prices.
 - Negative sentiment correlates with stock price declines, providing an early indicator of stock performance.
 - Headline length may influence sentiment, with shorter headlines often being more positive.
+=======
+# financial-news-sentiment-analysis
+>>>>>>> 711c327cd81f2a2f5debec757f91a0e217ac6dcb
